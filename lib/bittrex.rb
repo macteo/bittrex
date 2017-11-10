@@ -6,6 +6,7 @@ module Bittrex
   autoload :Client,        'bittrex/client'
   autoload :Configuration, 'bittrex/configuration'
   autoload :Currency,      'bittrex/currency'
+  autoload :Limit,         'bittrex/limit'
   autoload :Deposit,       'bittrex/deposit'
   autoload :Order,         'bittrex/order'
   autoload :Quote,         'bittrex/quote'
